@@ -4,7 +4,9 @@ Welcome to Owens's GitHub! 👋 Hi there! I'm Owen, a passionate Student in Comp
 
 About Me I'm interested in Cyber Security and advancement of ai, and I'm always exploring new ways to broaden my knowledge on topics i enjoy! Feel free to check out my repositories and projects!
 
-Featured Projects Project Name 1 Description and brief overview of Project 1.
+Side Projects:
+[TryHackMe](https://tryhackme.com/p/OSC)
+I enjoy teaching myself different aspects of Cyber Security using services like TryHackMe some of the courses on there are completely free and give you an insight on how to get started or if its a career you want to choose
 
 
 
