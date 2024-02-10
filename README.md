@@ -1,6 +1,6 @@
 Welcome to Owens's GitHub! 👋 Hi there! I'm Owen, a passionate Student in Computer Science and Business from the United Kingdom. Welcome to my GitHub profile!
 
-🚀 Quick Links: 🌐 Portfolio 📝 Blog 📧 [Contact Me](kuuullex4k@proton.me)
+🚀 Quick Links: 🌐 [Portfolio](https://github.com/0wenSC/portfolio.git) 📝 Blog 📧 [Contact Me](kuuullex4k@proton.me)
 
 About Me I'm interested in Cyber Security and advancement of ai, and I'm always exploring new ways to broaden my knowledge on topics i enjoy! Feel free to check out my repositories and projects!
 
