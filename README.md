@@ -12,7 +12,8 @@ I enjoy teaching myself different aspects of Cyber Security using services like 
 
 Stats:
 
-![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/OSC.png" alt="TryHackMe">)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/OSC.png)
+
 
 
 
