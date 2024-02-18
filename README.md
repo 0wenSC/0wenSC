@@ -16,6 +16,11 @@ Stats:
 
 
 
+Current Projects:
+
+Currently working on familiarizing myself with OSINT tools and possibly working on my own which will be posted to github when finished!
+
+
 
 
 Project Name 2 Description and brief overview of Project 2.
