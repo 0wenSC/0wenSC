@@ -2,7 +2,7 @@ Welcome to Owens's GitHub! 👋 Hi there! I'm Owen, a passionate Student in Comp
 
 🚀 Quick Links: 🌐 [Portfolio](https://github.com/0wenSC/portfolio.git) 📝 Blog 📧 [Contact Me](kuuullex4k@proton.me)
 
-About Me I'm interested in Cyber Security and advancement of ai, and I'm always exploring new ways to broaden my knowledge on topics i enjoy! Feel free to check out my repositories and projects!
+About Me I'm interested in Cyber Security and advancement of ai, and I'm always exploring new ways to broaden my knowledge on topics i enjoy! Best way to reach out to me is through instagram as i dont check my protonmail anymore. Feel free to check out my repositories and projects!
 
 Side Projects:
 [TryHackMe](https://tryhackme.com/p/OSC)
@@ -22,4 +22,4 @@ Project Name 2 Description and brief overview of Project 2.
 
 
 
-Let's Connect 🐦 [Twitter] 💼 [LinkedIn] 📷 [Instagram](https://www.instagram.com/oween.osc?igsh=MTlkcXNoMXZiMWJpbw==)
+Reach out to me here! 🐦 [Twitter] 💼 [LinkedIn] 📷 [Instagram](https://www.instagram.com/oween.osc?igsh=MTlkcXNoMXZiMWJpbw==)
