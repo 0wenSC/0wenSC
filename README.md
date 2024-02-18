@@ -10,6 +10,11 @@ I enjoy teaching myself different aspects of Cyber Security using services like 
 
 [SoloLearn](https://www.sololearn.com/profile/26444588/?ref=app) Another service i use to teach myself some coding is sololearn which also is free and gives you somewhere to start when learning multiple different coding languages
 
+Stats:
+
+![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/OSC.png" alt="TryHackMe">)
+
+
 
 
 Project Name 2 Description and brief overview of Project 2.
